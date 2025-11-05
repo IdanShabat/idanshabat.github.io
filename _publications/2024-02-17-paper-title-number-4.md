@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "A Unified Framework for Hopsets"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+permalink: /publication/A Unified Framework for Hopsets
+excerpt: 'Ofer Neiman and Idan Shabat, >
+30th Annual European Symposium on Algorithms (ESA 2022)'
+date: 2022-09-01
+venue: '30th Annual European Symposium on Algorithms (ESA 2022)'
+paperurl: 'https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2022.81'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
