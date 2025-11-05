@@ -1,5 +1,5 @@
 ---
-title: "A Unified Framework for Hopsets1"
+title: "A Unified Framework for Hopsets"
 collection: publications
 category: conferences
 permalink: /publication/A Unified Framework for Hopsets
